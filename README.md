@@ -7,7 +7,7 @@ If you want to delete a specifically formatted file in a directory or delete all
 2- Go to the dicectory and run the app.
 
 ```
-cd Downloads (for example)
+cd Downloads(for example)
 ```
 
 ```python
