@@ -4,7 +4,11 @@ If you want to delete a specifically formatted file in a directory or delete all
 # How to use?
 1- Download the file or clone it.
 
-2- Run the app.
+2- Go to the dicectory and run the app.
+
+```
+cd Downloads
+```
 
 ```python
 python app.py
